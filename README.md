@@ -54,9 +54,9 @@ The files provided here contain various published and unpublished observations, 
 
 ### Citation
 
-Welch, J.N., and P.A. Lee. 2022. SapphireEnergyIABR: Data and Summaries from the Sapphire Energy Integrated Algal BioRefinery (v1.0.0) [Dataset]. Zenodo. <https://doi.org/10.5281/zenodo>.
+Welch, J.N., and P.A. Lee. 2022. SapphireEnergyIABR: Data and Summaries from the Sapphire Energy Integrated Algal BioRefinery Dataset]. Zenodo. <https://doi.org/10.5281/zenodo.7495486>.
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo..svg)](https://doi.org/10.5281/zenodo.)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7495486.svg)](https://doi.org/10.5281/zenodo.7495486)
 
 ### Contact
 
