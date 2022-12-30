@@ -60,7 +60,7 @@ Welch, J.N., and P.A. Lee. 2022. SapphireEnergyIABR: Data and Summaries from the
 
 ### Contact
 
-Philip Lee, PhD
-Former Group Leader of Crop Protection
-Sapphire Energy
+Philip Lee, PhD  
+Former Group Leader of Crop Protection  
+Sapphire Energy  
 philip.lee@ee.doe.gov
