@@ -2,7 +2,7 @@
 
 ## Sapphire Energy Integrated Algal BioRefinery
 
-Files that are relevant but not included elsewhere are provided here.  
+Files not included elsewhere are provided here.  
 
 ### Table of Contents
 
