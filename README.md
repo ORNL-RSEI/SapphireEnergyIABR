@@ -8,6 +8,8 @@
 | ----------- | ----------- |
 | [AlgaeStrains.md](AlgaeStrains.md) | Contains descriptions, micrographs, and other identifying information for algae strains. |
 | [AS folder](AS) | Contains the files that are described and linked in AlgaeStrains.md. |
+| [CropProtection.md](Other.md) | Contains documents related to protecting the algae crops from pests and other afflictions. |
+| [CP folder](other) | Contains the files that are described and linked in Other.md. |
 | [GeneralArrangements.md](GeneralArrangements.md) | Contains General Arrangements for the Sapphire Energy Columbus facility. |
 | [GA folder](GA) | Contains the files that are described and linked in GeneralArrangements.md. |
 | [MediaRecycle.md](MediaRecycle.md) | Contains files that detail the best way to condition algae media. |
@@ -16,8 +18,6 @@
 | [PEM folder](PEM) | Contains the files that are described and linked in PestElectronMicroscopy.md. |
 | [ProcessFlowDiagrams.md](ProcessFlowDiagrams.md) | Contains diagrams of the general flow of plant processes and equipment. |
 | [PFD folder](PFD) | Contains the files that are described and linked in ProcessFlowDiagrams.md. |
-| [Other.md](Other.md) | Contains additional documents. |
-| [other folder](other) | Contains the files that are described and linked in Other.md. |
 | [StandardOperatingProcedures.md](StandardOperatingProcedures.md) | Contains instructions for routine operations at an algae facility, from cultivation through general equipment or site maintenance. |
 | [SOP folder](SOP) | Contains the files that are described and linked in StandardOperatingProcedures.md. |
 
@@ -63,4 +63,4 @@ Welch, J.N., and P.A. Lee. 2022. SapphireEnergyIABR: Data from the Sapphire Ener
 Philip Lee, PhD  
 Former Group Leader of Crop Protection  
 Sapphire Energy  
-philip.lee@ee.doe.gov
+<philip.lee@ee.doe.gov>
