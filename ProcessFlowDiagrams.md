@@ -37,5 +37,5 @@ Diagrams detailing the intake and outtake streams of ponds.
 
 Reports on the flow velocity tests in ponds using a Vectrino-II flow profiler to estimate paddlewheel efficiency and deadzone area.
 
-1. Velocity Measurements in Two IABR Inoculation Ponds [pond_velocity_report_1.pdf](other/pond_velocity_report_1.pdf)
-2. Velocity Measurements in a Two-Acre Pond [pond_velocity_report_2.pdf](other/pond_velocity_report_2.pdf)
+1. Velocity Measurements in Two IABR Inoculation Ponds [pond_velocity_report_1.pdf](PFD/pond_velocity_report_1.pdf)
+2. Velocity Measurements in a Two-Acre Pond [pond_velocity_report_2.pdf](PFD/pond_velocity_report_2.pdf)
