@@ -1,0 +1,143 @@
+﻿Group,Class,Type,Example,Notes,Pros,Cons,Typical Concentration,Worth Pursuing
+Chemical,Disinfectant,NA,2-4-dichlorobenzyl alcohol,Similar effect as phenols,NA,No products registered for New Mexico,NA,No
+Chemical,Herbicide,NA,2-4-dichlorophenoxyacetic acid (2-4-D),A component of Agent Orange,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Roticide,Organochlorine insecticide,3-4-dichloroaniline (DCA),Other studies suggest toxicity in the μg/L range,NA,NA,LC50 61.5 mg/L,No
+Chemical,Disinfectant,Oxidising Agent,accelerated hydrogen peroxide,NA,NA,NA,NA,Maybe
+Non-Chemical,Harvest,NA,acoustic focusing,US20120095245 patent. Nannochloropsis treatment. States use for harvesting but show data for removal of pests such as rotifers amoeba etc. Uses ultrasonic standing waves. Looks like removing pests by harvest.,NA,Needs to be part of the harvest process rather than pond treatment,NA,No
+Non-Chemical,Culture,NA,add heat,CN202519240U patent. Nannochloropsis treatment.,Should work,Expensive,NA,No
+Chemical,Disinfectant,Oxidising Agent,advanced oxidation,Mixture of ozone and UV makes hydroxyl radicals. Works for swimming pools.,Combination of UV and O3 is greater than the sum of its parts,Could be problematic with unfiltered water,NA,Maybe
+Chemical,Roticide,Organochlorine insecticide,aldrin,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Culture,Media chemistry,alkalinity or nutrient levels,Worked in past. Need to consider long term effects on water chemistry.,Efficacy shown. Could save money over time and alternative to cidal agents.,Could become expensive or be expensive up front,NA,Yes
+Chemical,Culture,Media chemistry,allow total dissolved solids to cycle by evaporation,Not something that can be controlled. Will not deliberately manipulate.,Could be crop protective and would be a free way of using it,Cannot be controlled deliberately,Depends on strains and pest,No
+Chemical,Disinfectant,NA,ammonia,Toxic to rotifers. Will be affected by pH so will not likely work at pH 8,NA,Might need too much. pH sensitive.,NA,Yes
+Chemical,Disinfectant,NA,amylmetacresol,Used in throat lozenges,NA,No products registered for New Mexico,10 ppm,Maybe
+Chemical,Disinfectant,Oxidising Agent,anolyte,NA,NA,NA,NA,Maybe
+Chemical,Amoebicide,Polychlorinated biphenyl (PCB) mixture ,Aroclor 1254,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Herbicide,NA,atrazine or Keystone or Fultime,Various formulations 12-26%. Label specifically states not to apply to water noting that it can leach through soil into groundwater. Maybe usable at LCTS and IABR. It is used in agriculture as a pre-emergent weed control option.,Used in agriculture and probably inexpensive,No products registered for New Mexico. There have been environmental issues in the past.,μg/L,No
+Chemical,Herbicide,NA,benthiocarb (thiocarbamate cholinesterase inhibitor),Recommend research to confirm LC50,NA,No products registered for New Mexico,NA,No
+Chemical,Roticide,NA,bifenthrin or malathion,Fleas a known problem at IABR,Efficacy shown,Regulatory approval required,<1 ppm,Yes
+Chemical,Disinfectant,NA,bromine,Used in swimming and spa pools. Has some advantages over chlorine as it works better at high temperatures and bromamines are generally still active as compared to chloramines.,More versatile than chlorine in certain situations ,More expensive than chlorine. Reacts with light so more typically used in hot tubs than pools.,NA,Maybe
+Chemical,Roticide,NA,cadmium,Exposure time increases toxicty,NA,NA,LC50 5-40 mg/L,No
+Chemical,Roticide,Salt,cadmium chloride,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Disinfectant,Oxidising Agent,calcium hypochlorite,Highly toxic to rotifers according to PAN Pesticide Database. More stable than sodium hypochlorite and could be added as a powder but should give the same result as bleach. By product is calcium instead of sodium. Patent using bleach only mentions sodium hypochlorite so other biocides and bleaching agents may not be covered.,Cheap tablets and slow release available,Residual effects and toxic reaction products,5 ppm for emergency treartment of drinking water or 1-2 mg/L,Yes
+Chemical,Roticide,NA,carbaryl or Sevin,Sevin Brand RP4 Carbaryl Insecticide (43%),Possible broad spectrum efficacy,Expensive at $165 per gallon and resistance likely,μg/L,Maybe
+Chemical,Roticide,NA,carbofuran,NA,NA,Ban on foods in US,NA,No
+Chemical,Biopolymer,NA,chitin or chitosan,Could also be used for harvest,Approved biopesticide by EPA and approved for organic farm use,NA,NA,Maybe
+Chemical,Disinfectant,Oxidising Agent,chloramine-T (N-chloro-p-toluenesulfonamide),Highly toxic to rotifers according to PAN Pesticide Database. More stable than chlorine but same efficacy and reaction is slower. Chloramines do not react with organics as often as chlorine does.,Few biproducts and active for long time. Used in water treatment.,If used with high organic load it can make organic chloramines that have little efficacy. May need to buy machinery to make it via chemical reaction. Not recommended in drinking water systems.,3 ppm,Yes
+Chemical,Disinfectant,Oxidising Agent,chlorine,Could try tablets that dissolve slowly or benzylkonium tablets that do the same,NA,Residual effects,NA,NA
+Chemical,Fungicide,NA,chlorothalonil (2-4-5-6-tetrachloroisophthalonitrile),Also roticide and antibacterial,Available from Dow but unknown if they have a modern product,NA,2-5 ppm,Maybe
+Chemical,Disinfectant,NA,chloroxylenol,Ingredient in Dettol. Seems to be used at 159 ppm or higher and used as preservative in paints at 500 ppm.,NA,No products registered in New Mexico. High concentration needed.,NA,Maybe
+Chemical,Roticide,Organophosphate insecticide,chlorpyrifos,Affects mictic rate. Originally labelled for mosquitoes.,Many options,Might require high rate,10000 μg/L,Maybe
+Chemical,Disinfectant,NA,commercial ozone generators used in line,Nannochloropsis treatment. Can be used at various concentraions but input with a venturi device. No ozone-free control was used so crop protection could be from the venturi forces.,Known method for water treatment,Effect of ozone alone is unclear,NA,Maybe
+Non-Chemical,Harvest,NA,completely harvest entire culture of a raceway,"Probably would be used only to take remove ""bad"" culture since it would be needed as part of two phase cultivation. Recommend experiments to aid in future site designs.",Reduce cidal costs ,Site is not set up to do this routinely,NA,No
+Chemical,Roticide,NA,copper,Highly toxic to rotifers according to PAN Pesticide Database,NA,NA,LC50 30-130 μg/L,Yes
+Chemical,Herbicide,NA,copper ethanolamine complex,Labeled algacide,Potential on label use,NA,2-4 ppm,Yes
+Chemical,Roticide,Salt,copper gluconate,Labeled algacide,Potential on label use,NA,5-20 ppm,Yes
+Chemical,Roticide,NA,copper hydroxide with copper oxychloride,NA,NA,NA,NA,Yes
+Chemical,Roticide,NA,copper(II) chloride,Highly toxic to rotifers according to PAN Pesticide Database,NA,NA,NA,Yes
+Chemical,Fungicide,NA,copper(II) hydroxide,Labeled algacide,Potential on label use,NA,2-10 ppm,Yes
+Chemical,Roticide,NA,copper(II) sulfate,Copper Z4/4 (15.9%). 0.43 mg/L will reduce feeding rate by 50%. Highly toxic to rotifers according to PAN Pesticide Database. Labeled Algacide.,Potential on label use,Has not worked previously,μg/L and LC50 0.08 mg/L and 1 ppm cu,Yes
+Chemical,Roticide,NA,copper-ammonium complex,Also fungicide,NA,NA,NA,Yes
+Non-Chemical,Procedural,NA,crop rotation,Is part of traditional integrated pest management and could work well with more than one strain,Avoids pest issues and pest resistance,Could be difficult operationally,NA,No
+Chemical,Roticide,NA,DCMU (3-(3-4-dichlorophenyl)-1-1-dimethylurea),US20130130909 patent. Nannochloropsis treatment. Labeled pesticide.,Easy to make resistant strains,Has not worked well previously. Probably need too much. A mutatgen and resistance likely.,NA,No
+Non-Chemical,Procedural,NA,Lower flow rate by decreasing paddle wheel speed to settle invaders,Nannochloropsis is more buoyant than other strains. May disadvantage weeds and possibly save energy costs.,Inexpensive,Modification needed at IABR,NA,Yes
+Chemical,Roticide,Organophosphate insecticide,diazinon,Lowers hatching rate of resting eggs,Many options,Could be expensive at rates required,LC50 88.4 μM and LC50 30 mg/L,Maybe
+Chemical,Roticide,Organophosphate insecticide,dichlorvos,Affects mictic rate,Many options,NA,>10000 μg/L,Maybe
+Chemical,Roticide,Organochlorine insecticide,dieldrin,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Roticide,Organophosphate insecticide,dimethoate,NA,NA,NA,NA,No
+Chemical,Roticide,Organomercury compound,dimethylmercury,Extremely dangerous,NA,No products registered for New Mexico,μg/L,No
+Chemical,Disinfectant,Phenol,dinitrophenols (DNPs),NA,NA,No products registered for New Mexico,μg/L,Maybe
+Non-Chemical,Harvest,NA,electricity,US20120329121A1 US20140017759A1 US20140017757A1 US20140017758A1 patents. Nannochloropsis treatment.,Should work,Safety. Fouling of electrodes.,NA,Maybe
+Chemical,Culture,Media chemistry,elemental copper or zinc,Used for lipid accumulation,NA,Has not worked previously,1 ppm,Yes
+Chemical,Roticide,Organochlorine insecticide,endosulfan,Multiple research papers confirm the LC50,NA,Might require high rate,LC50 6 mg/L,No
+Chemical,Herbicide,NA,EPTC (S-ethyl dipropylthiocarbamate) or Eptam-7A,Eptam-7A is 87.8% Carbamothioic acid and dipropyl- and S-ethyl ester. Used for pre-emergent weed control.,NA,NA,μg/L,Maybe
+Chemical,Disinfectant,NA,ethanol or isopropanol,Probably needs to be used at high concentrations. Organic matter reduces efficacy.,NA,High concentration needed,50-70%,No
+Chemical,Disinfectant,Phenol,FarmPhene,Advantage 128 is a triple-phenol disinfectant that also contains o-phenyl. FarmPhene is 17.5% triple-phenol used in agriculture at 1:256 dilution. May be inhibitory at much lower concentrations.,Used in hospitals and aviculture and pig farms. Around $21.95 per gallon.,Corrosive and anesthetic and not soluble in water,μg/L,Yes
+Chemical,Roticide,Organophosphate insecticide,fenamiphos,Moderately toxic to rotifers according to PAN Pesticide Database,NA,NA,NA,No
+Chemical,Roticide,Organophosphate insecticide,fenitrothion,Lowers hatching rate of resting eggs. Moderately toxic to rotifers according to PAN Pesticide Database.,Many options and inexpensive,No products registered for New Mexico,LC50 229.8 μM,No
+Chemical,Fungicide,NA,ferbam or carbamate,NA,Available from Taminco,NA,NA,Maybe
+Non-Chemical,Procedural,NA,fill entire pond prior to inoculating and treat with chemical,Theoretically possible but needs to be used as part of two phases,NA,NA,NA,No
+Non-Chemical,Mechanical,NA,filtration,Separation of return water,Would clean the water,Expensive,NA,No
+Chemical,Herbicide,NA,flumioxazin or Clipper,Labeled algacide. Used at small scale lab and field.,Effective in tests,Expensive,200-400 ppb,Yes
+Chemical,Herbicide,NA,fluridone,SonarQ,NA,Old data showed high rates needed,20 lbs/acre,Yes
+Chemical,Disinfectant,NA,formaldehyde or glutaraldehyde or ortho-phthalaldehyde or Cetylcide-g,Sporicidal fungicidal and partially inactivated by organics. Some bacterial resistance possible.,NA,Some inactivation by organics,NA,NA
+Chemical,Roticide,NA,free ammonia,Maintain pH above 8,Could incorporate into media,NA,LC50 17ppm and 5mg/L,Yes
+Chemical,Biocide,Salt,germanium dioxide,Growth regulator that inhibits diatoms,Non toxic to other things and might last,Might need repeated dosing and costs unknown. Tends to be preventative rather than a treatment.,1-10 ppm,Yes
+Chemical,Herbicide,NA,glyphosate,US2010/0022393A1 patent. Nannochloropsis treatment.,Easy to make resistant strains. Lab experience.,Has not worked well previously. Probably need too much. A mutatgen and resistance likely.,NA,No
+Chemical,Herbicide,NA,GoalTender,Weeds a known problem at IABR,Used at small scale and field,Regulatory approval required,1-50 ppb,Yes
+Chemical,Roticide,Organochlorine insecticide,hexachlorophene,Used as a germicidal additive to some household products but was banned for suspected harmful effects,NA,Safety,NA,No
+Chemical,Disinfectant,Oxidising Agent,hypochlorite,Should work in the ppm range but may leave chlorine residuals. Used in swimming pools drinking water and readily available for large volumes.,Available already,Residual effects and toxic reaction products,1-10 ppm,Yes
+Chemical,Disinfectant,Oxidising Agent,iodine or iodophore or triodine or ovadine,NA,Easily available and some experience,Large volumes potentially needed,10-40 ppm,Yes
+Chemical,Roticide,NA,isoprothiolane,Lowers hatching rate of resting eggs,NA,No products registered for New Mexico,LC50 220.7 μM,No
+Chemical,Disinfectant,Oxidising Agent,Isothiazolinones (e.g. Kathon 886),Various ways to make it,Non toxic breakdown products,Not known how water chemistry affects reaction,NA,Yes
+Chemical,Amoebicide,NA,isothiazolinones or Kathon 886,Many commercial formulations and some named Spectrus (NX1100). Most have Bronopol (5%) with two forms of isothiazalone-one methylated at 0.39% and other chloro+methyl. Considered a broad spectrum microbacide.,Several formulations and is broad spectrum,NA,μg/L,Yes
+Chemical,Disinfectant,NA,lactic acid,NA,NA,NA,NA,Maybe
+Chemical,Amoebicide,NA,lead(II) nitrate,NA,NA,No products registered for New Mexico,μg/L,No
+Chemical,Roticide,Organochlorine insecticide,lindane,NA,NA,No products registered for New Mexico,LC50 22.5 mg/L,No
+Chemical,Herbicide,NA,linuron (3-(3-4-dichlorophenyl)-1-methoxy-1-methylurea) or Lorox-DF,Lorox-DF is 50% linuron. Classified as an herbicide and used for pre-emergent weed control.,NA,NA,μg/L,Maybe
+Chemical,Disinfectant,NA,magnesium monoperoxyphthalate,NA,NA,NA,g/L,Maybe
+Chemical,Roticide,Organophosphate insecticide,malathion,NA,NA,Cannot apply to water,NA,Yes
+Chemical,Amoebicide,NA,MBC 120,Acetylcholinesterase inhibitor. Considered an insecticide and fungicide. Available from several sources including Dow.,NA,Tested several acetylcholinesterase inhibitors already,μg/L,Maybe
+Chemical,Amoebicide,NA,mercuric chloride or mercury,Highly toxic to rotifers according to PAN Pesticide Database,NA,No products registered for New Mexico,μg/L,No
+Chemical,Disinfectant,NA,metallic copper,Copper treatments for bacetrial pests in agricultural setting resulted in resistant bateria. Used in 1 ppm range as algaecide.,Low concentration and some on label or near label uses,Resistance lilely,1 ppm,Yes
+Chemical,Roticide,NA,metallic silver,Highly toxic to rotifers according to PAN Pesticide Database,NA,NA,NA,Maybe
+Chemical,Roticide,NA,methoprene,Lowers hatching rate of resting eggs,Used in cow feed,Low concentration in available chemicals,LC50 100.8 μM,Maybe
+Chemical,Roticide,NA,methoprene (growth regulator),US2012/0073021A1 patent. Nannochloropsis treatment. Application reports using methoprene and other hormones or hormone analogues against rotifers. Reports biocides including benzalkonium but is an adjuvant rather than the actual biocide. States test manipulating the male/female ratio of rotifers to manage populations. Can be bought in briquette form.,Methoprene not toxic to other things and is used in food preparation and for pets and as food additive for cattle feed to prevent flies in manure,Has a traditional pesticide label in some cases,1 ppm,Maybe
+Chemical,Roticide,Organophosphate insecticide,methyl parathion,NA,NA,Not for food,LC50 30 mg/L,No
+Non-Chemical,Mechanical,NA,Miox purifier,NA,NA,NA,NA,Maybe
+Chemical,Fungicide,NA,myclobutanil,Similar to dithane,Available from Dow,NA,NA,Maybe
+Chemical,Roticide,Surfactant,nitrogen-containing amines,Idea from general statements in research papers,NA,NA,NA,Maybe
+Chemical,Amoebicide,Antibiotic,nitroimidazole or metronidazole or tinidazole or ornidazole,NA,NA,No products registered for New Mexico. Not effective against cysts. Expensive.,NA,Maybe
+Non-Chemical,Procedural,NA,no flow at night,Some data suggests pest propagate slower when no shaking was applied at night. Not field tested but could work and save energy costs at the same time. Used at large scale during selective harvests.,Inexpensive,NA,NA,Yes
+Chemical,Culture,Media chemistry,no nutrients in return water then feed in ponds and harvest after nutrients are depleted,No nutrients in the return water storage could prevent build up of pests and growth of unwanted organisms in this area. Unlikely to be deployable with current site design but could be incorporated as part of two phase cultivation.,Prevents growth in return water,Difficult and at large scale the nutrients will be added in return line,NA,No
+Chemical,Roticide,Surfactant,non-ionic compound,Idea from general statements in research papers,Very high rates effective against Chytrid,NA,NA,Maybe
+Chemical,Biocontrol,NA,Nostoc or Anabeana cyanobacteria,Extracts and supernatant comparable to Dithane efficacy against fungus on plates,No regulatory biocide. Potential Sapphire product. Potential weeds to capture and kill. ,Worked well at Columbus scale for rotifers but less successful at field scale,NA,Maybe
+Chemical,Fungicide,NA,Omega or Bravo or Defiant or Dithane or Spectrus,No known Nannochloropsis pests,Experience at Columbus scale. Will be used at LCTS in 2015 only.,Regulatory approval required,0.5-5 ppm,Yes
+Chemical,Disinfectant,Phenol,ortho-Phenylphenol (OPP),Less corrosive than phenol,Used in hospitals and aviculture and pig farms,NA,NA,Maybe
+Chemical,Herbicide,NA,oryzalin or diquat,Have aquatic labels,Must manage resistance in weeds,Regulatory approval required,1-100 ppm,Yes
+Chemical,Disinfectant,Oxidising Agent,oxygen,NA,Non toxic breakdown products,NA,NA,Maybe
+Chemical,Disinfectant,Oxidising Agent,ozone,Aurora has a patent that used ozone but it is not clear that it was the source of crop protection,NA,NA,NA,Yes
+Chemical,Herbicide,NA,penoxsulam,NA,Available from Dow,NA,NA,Maybe
+Chemical,Roticide,Organochlorine insecticide,pentachlorophenol (PCP),Moderately toxic to rotifers according to PAN Pesticide Database,NA,No products registered for New Mexico,LC50 2.6 mg/L,No
+Chemical,Disinfectant,Oxidising Agent,peracetic acid (PAA),Is a mixture of acetic acid and hydrogen peroxide which may also have benefits. Considered hazardous and requires additional transport costs. Works better at pH 7 than 8-9. Can be bought as a mixture with hyudrogen peroxide.,Non toxic breakdown products. Higher oxidation capacity than bleach. Used in water treatment.,Likely very short lived,NA,Yes
+Chemical,Roticide,Surfactant,perfluorinated carboxylic acids (PFCAs),Increases mictic ratio,NA,High concentration needed,LC50 70-140 mg/L,No
+Chemical,Roticide,Surfactant,perfluorooctane sulfonate (PFOS),Increase mictic ration. 0.25-2.0 mg/L concentrations needed.,NA,Extrememly persistant in environment and high threat to mammals,NA,No
+Chemical,Roticide,Surfactant,perfluorooctanoic acid (PFOA),NA,NA,NA,NA,No
+Chemical,Disinfectant,Oxidising Agent,performic acid (PFA),Various research reports it as wastewater treatment. Seems to compare favorably with peracetic acid.,Degradation products are non toxic and biodegradable. Used in water treatment.,NA,as low as 0.5-1 ppm typically 2-4 ppm,Yes
+Chemical,Disinfectant,NA,peroxygen or PAK27,Labeled algacide,Potential on label use,Has not worked previously,3-100 lbs/acre,Yes
+Chemical,Culture,Media chemistry,pH adjustments using CO2 or NaOH,US 20120184021 patent. Nannochloropsis treatment. Used CO2 vs NaOH to change pH 2-3 units. Would not be viable but could have a larger change in pH than the 0.4 range currently uses.,Already have system in place,Slow and costly at scale,2-3 pH units,No
+Chemical,Disinfectant,NA,phosphoric acid or dodecylbenzenesulfonic acid,No rinse acid sanitizer for food and beverage use,Used in food industry,Uses phosphoric acid,10-100 ppm,Yes
+Chemical,Amoebicide,Salt,polixetonium chloride pPoly(oxyethylenme)(dimethylimino)ethylene(dimethylimino)ethylene dichloride),NA,NA,NA,μg/L,Maybe
+Chemical,Disinfectant,NA,polyaminopropyl biguanide (PAPB),NA,NA,NA,NA,Maybe
+Chemical,Amoebicide,Salt,potassium dimethyldithiocarbamate,NA,NA,NA,μg/L,Maybe
+Chemical,Disinfectant,Oxidising Agent,potassium permanganate,Not know what happens to the Manganese,NA,NA,NA,Maybe
+Chemical,Disinfectant,Oxidising Agent,potassium peroxymonosulfate,NA,NA,NA,1% solution,Maybe
+Chemical,Herbicide,Amoebicide,propanil,NA,NA,No products registered for New Mexico,NA,Maybe
+Chemical,Herbicide,NA,propham,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Non-Chemical,Mechanical,NA,pumping under certain conditions,Shear forces have traditionally been reduced as much as possible e.g. by reducing number of vanes in impellors or using gentler pumps etc. Shear forces are a likely contributor to the lack of rotifers in the GVP.,Should work,Might need to pump large volumes. Not easily scaled at Columbus but could be incorporated into a new design.,NA,Yes
+Chemical,Disinfectant,NA,quaternary ammonium (quats),Many examples of use and pesticide type labels,Already in use,NA,1-80 ppm,Yes
+Chemical,Fungicide,NA,quinoxyfen,Mode of Action class 13. Maybe antibacterial.,Available from Dow,NA,4-8 oz/acre for mildew,Maybe
+Chemical,Culture,Media chemistry,salt,US20100183744 patent. Nannochloropsis treatment. Used salt water mixing with fresh water so unclear on evaporation or adding other salts to increase total dissolve solids would be covered by this patent.,Efficacy shown,Intellectual property and operational constraints,NA,Yes
+Chemical,Herbicide,Salt,silvex potassium salt,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Herbicide,NA,simazine,Princep 4L is 41.9%. $98.99 for 2.5 gallons. Princep Caliber 90 is 90%.,NA,Expensive,μg/L,Maybe
+Chemical,Herbicide,Salt,sodium arsenite,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Disinfectant,NA,sodium bicarbonate,Research shows 30-50 ppt range for antibacterial  antiviral and fungicide,Already in stock,Large amounts needed,30000 ppm,Yes
+Chemical,Disinfectant,NA,sodium dihyfrogen citrate (SDC),Some info suggets silver doesn't work well as a disinfectant. $35/gallon @ 30 ppm. Research shows that it worked at 15ppm for bacteria. Suspect cost would be cheaper for commercial use.,NA,NA,NA,No
+Chemical,Roticide,Surfactant,sodium dodecyl sulfate,NA,NA,NA,NA,No
+Chemical,Disinfectant,Salt,sodium hypochlorite,US20100183744 patent. Highly toxic to rotifers according to PAN Pesticide Database. 3 ppm per day was used in the patent with  other reactive doses an option. Unknown if using other bleaching agents would be a violation.,Efficacy shown,Requires lot of bleach even if cost effective. Likely leads to build up of other stuff.,1-5 ppm,Yes
+Chemical,Biocide,Salt,sodium nitrite,NA,NA,Minimum inhibitory concentrations for Ecoli reported as 15000 ppm (14.9 mg/ml),NA,No
+Chemical,Fungicide,NA,strobilurin or azole,Widely available,Past use successful,No model pest for Nannochloropsis. Regulatory approval.,0.5-5 ppm,Maybe
+Chemical,Disinfectant,Phenol,TCP (2-4-6-trichlorophenol),Less corrosive than phenol. Can be used to treat wounds and clean toilets.,Popular in UK,NA,NA,No
+Chemical,Fungicide,Organomercury compound,thimerosal,NA,NA,No products registered for New Mexico,μg/L,Maybe
+Chemical,Disinfectant,Phenol,thymol or Apigard,"Apigard is 25% thymol in gel 97.3/3 kg. Derived from the herb thyme and is the active ingredient in some ""broad spectrum"" disinfectants that bears ecological claims. More effective when combined with carvacrol. Shown to be effective against Pseudomonas.",Natural,High concentration needed and expensive. Solubility issues.,NA,Maybe
+Chemical,Biocide,Salt,total dissolved solids (TDS),Worked in past. Unlikely to affect rotifers but may affect other pests.,Depending on composition could be cheaper than pesticides,NA,2-5 ppt above recipe,Yes
+Non-Chemical,Procedural,NA,treat return water in HRP,Treatments that prevent growth of pests in the HRP could be beneficial,Prevent pest inoculation at each harvest,Probably not feasible given lack of flow but treating in line with return pipe may work in the same way,NA,No
+Non-Chemical,Procedural,NA,treat return water in line,Site is setup to treat return water in line and was originally designed to use bleach. Should be possible but need to know chemical compatibility.,One dosing point for whole site,Cannot treat all ponds at once,NA,Yes
+Chemical,Roticide,Organophosphate insecticide,triazophos,Affects mictic rate of water flea with EC90=40 μg/L,NA,No products registered for New Mexico,>10000 μg/L,No
+Chemical,Roticide,NA,tributyltin hydride (Tributylstannane),Highly toxic to rotifers according to PAN Pesticide Database,NA,NA,NA,No
+Chemical,Cleaner,NA,TSP (trisodium phosphate),Mix with baking soda,NA,Minimum inhibitory concentrations for Ecoli reported as 10000 ppm (10 mg/ml),NA,No
+Non-Chemical,Procedural,NA,two-phase cultivation using starter and finsh pond,Use an expensive starter pond where dosing happens and then use inexpensive finshing pond. Pond is harvested to completion.,Cheaper over time compared to cidal,Same water stream. Current pond design cannot work for this. Untested.,NA,No
+Non-Chemical,Disinfectant,NA,UV light,Halliburton has a rig that does 100 bbl/min (approx 3000 gal/min) UV treatment for fracking water,NA,NA,NA,Maybe
+Non-Chemical,Mechanical,NA,Venturi or cavitation plate,Nannochloropsis treatment. Cavitation creates shear forces and shockwaves and possibly free radicals that contribute to the death of rotifers. Typically avoid cavitation as it can cause wear on pump parts.,Efficacy shown and could be experimented,Expensive scale up and patent issues. May need to use large volumes or redesign pond system.,NA,Yes
+Chemical,Amoebicide,NA,zinc sulfate,"Labeled Algacide. 98% products Baquacil considered to be algacides. Several combination chlorination tablets available that include zinc sulfate (3.5%) with 93.6% trichloro-s-triazinetrione (Pace Power 3"" and HTH Super 3""). Widely available as micronutrient treatment in orchards.",Could be made a media component and inexpensive,NA,μg/L,Yes
+Chemical,Fungicide,NA,ziram,Potential thiram replacement,Available from Taminco,NA,NA,Maybe
