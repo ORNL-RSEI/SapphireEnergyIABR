@@ -6,6 +6,13 @@ Process Flow Diagrams (PFD) provide the general flow of plant processes and equi
 
 ### Table of Contents
 
+* [Pond Diagrams](#pond-diagrams)
+* [Pond Velocity Reports](#pond-velocity-reports)
+
+#### Pond Diagrams
+
+Diagrams detailing the intake and outtake streams of ponds.
+
 * Block Flow Diagram [00-F-100.pdf](PFD/00-F-100.pdf)
 * Water Intake [01-F-210.pdf](PFD/01-F-210.pdf)
 * Inoculation & Harvest Return Storage Pond [02-F-220.pdf](PFD/02-F-220.pdf)
@@ -25,3 +32,10 @@ Process Flow Diagrams (PFD) provide the general flow of plant processes and equi
 * Evaporation Ponds [03-F-250.pdf](PFD/03-F-250.pdf)
 * Chemical Storage & Distribution [09-F-290.pdf](PFD/09-F-290.pdf)
 * Flocculant Storage & Distribution [09-F-293.pdf](PFD/09-F-293.pdf)
+
+#### Pond Velocity Reports
+
+Reports on the flow velocity tests in ponds using a Vectrino-II flow profiler to estimate paddlewheel efficiency and deadzone area.
+
+1. Velocity Measurements in Two IABR Inoculation Ponds [pond_velocity_report_1.pdf](other/pond_velocity_report_1.pdf)
+2. Velocity Measurements in a Two-Acre Pond [pond_velocity_report_2.pdf](other/pond_velocity_report_2.pdf)
