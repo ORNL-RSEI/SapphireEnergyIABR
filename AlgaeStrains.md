@@ -13,18 +13,28 @@ Algae Strains (AS) are strains that were maintained in the Sapphire Culture Coll
 
 #### Descriptions
 
-Information and notes on the strains in the culture collection. In most cases, phenotypes, species names, and sources are provided. The prefix for the sources are provided in the table below.
+Information and notes on the strains in the culture collection. In most cases, phenotypes, species names, and sources are provided. The prefix for the sources and descriptions for plating media are provided in the table below.
 
-1. *File In Progress*
-1. *File In Progress*
+1. Algae Strains [algae_strain_descriptions.csv](AS/algae_strain_descriptions.csv)
 
-| Prefix | Source | Website |
+| Type | Source | Website |
 |-|-|-|
+| **Prefix** |---|---|
 | CC | Chlamydomonas Resource Center | <https://www.chlamycollection.org/> |
 | CCAP | Culture Collection of Algae and Protazoa | <https://www.ccap.ac.uk> |
 | CCMP | National Center for Marine Algae and Microbiota (formerly Culture Collection of Marine Phytoplankton)| <https://ncma.bigelow.org/> |
 | RCC | Roscoff Culture Collection | <https://roscoff-culture-collection.org/> |
 | UTEX | Culture Collection of Algae at the University of Texas at Austin | <https://utex.org/> |
+| **Media** |---|---|
+| BG-11 | A standard algae media. | [Example](https://utex.org/products/bg-11-medium?variant=30991786868826) |
+| BG-11 0.5% agar | Similar to BG-11 but using 0.5% agar (low). | [Example](https://utex.org/products/bg-11-medium?variant=30991786868826) |
+| greenhouse standard | A proprietary media used at Sapphire. A fresh standard freshwater to brackish media would be similar. |  |
+| IABR-10 | A recipe formulated to mimic the water source at the Columbus facility after some evaporation | [Example](https://doi.org/10.1089/ind.2013.0036) |
+| IABR-10 pH9.5 | Similar to IABR-10 but using a different pH. | |
+| MASM 16 | An artificial seawater medium at 16ppm salinity and standard 1.5% agar | [Example](https://doi.org/10.1016/j.algal.2018.04.003) |
+| MASM 16 1% agar | An artificial seawater medium using 16g/L NaCl and 1% agar. | [Example](http://web.biosci.utexas.edu/utex/Media%20PDF/modified%20artificial%20seawater%20medium.pdf) |
+| TAP | A standard algae media. | [Example](https://utex.org/products/tap-medium?variant=30991736897626#recipe) |
+| 30AS1-307-T 1% agar | An artificial seawater medium using 30ppm salinity and 1% agar. | Similar to [this example](http://web.biosci.utexas.edu/utex/Media%20PDF/modified%20artificial%20seawater%20medium.pdf) but using 30g/l NaCl. |
 
 #### Sequences
 
