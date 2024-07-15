@@ -50,7 +50,7 @@ The files provided here contain various published and unpublished observations, 
 ### Authors & Affiliations
 
 1. [Jessica Nicole Welch](https://www.ornl.gov/staff-profile/jessica-n-welch), Oak Ridge National Laboratory
-2. Philip Lee, Allegheny Science and Technology
+2. Philip Lee, Los Alamos National Laboratory
 
 ### Citation
 
@@ -61,6 +61,5 @@ Welch, J.N., and P.A. Lee. 2022. SapphireEnergyIABR: Data from the Sapphire Ener
 ### Contact
 
 Philip Lee, PhD  
-Former Group Leader of Crop Protection  
-Sapphire Energy  
-<philip.lee@ee.doe.gov>
+Former Group Leader of Crop Protection at Sapphire Energy  
+<philip.lee@lanl.gov>
